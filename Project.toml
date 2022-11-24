@@ -1,0 +1,7 @@
+name = "MorseCode"
+uuid = "d52d77f7-a4f7-467d-a6f0-fce22cef44e1"
+authors = ["isskj "]
+version = "0.1.0"
+
+[deps]
+PortAudio = "80ea8bcb-4634-5cb3-8ee8-a132660d1d2d"
